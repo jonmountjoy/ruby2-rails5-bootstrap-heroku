@@ -2,8 +2,8 @@
   "name": "ruby2-rails5-bootstrap-heroku",
   "private": true,
   "engines": {
-    "node": "^10.0.0",
-    "yarn": "^1.7.0"
+    "node": "^10.8.0",
+    "yarn": "^1.9.2"
   },
   "browserslist": [
     "Chrome >= 45",
@@ -31,7 +31,7 @@
     "turbolinks": "^5.1.1"
   },
   "devDependencies": {
-    "stylelint": "^9.3.0",
+    "stylelint": "^9.4.0",
     "stylelint-config-recommended-scss": "^3.2.0",
     "stylelint-config-standard": "^18.2.0",
     "stylelint-order": "^0.8.1",
