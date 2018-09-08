@@ -27,7 +27,7 @@
     "jquery": "^3.3.1",
     "popper.js": "^1.14.4",
     "rails-ujs": "^5.2.1",
-    "resolve-url-loader": "^2.3.0",
+    "resolve-url-loader": "^2.3.1",
     "turbolinks": "^5.2.0"
   },
   "devDependencies": {
